@@ -79,3 +79,4 @@ typings/
 .dynamodb/ 
 
 .env
+kube/secret.yaml
