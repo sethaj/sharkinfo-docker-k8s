@@ -22,4 +22,5 @@ mongoose.connect(url, options).then( function() {
 })
   .catch( function(err) {
   console.log(err);
+  console.log(url)
 });
